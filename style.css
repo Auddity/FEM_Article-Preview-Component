@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   height: 15px;
   width: 15px; 
-  top: 50%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -153,8 +153,8 @@ h1, h2, h3, h4, h5, h6 {
 #social-menu {
   position: absolute;
   visibility: hidden;
-  bottom: 90px;
-  right: -45px;
+  bottom: 85px;
+  right: -47px;
   display: flex;
   align-items: center;
   background: var(--drk);
